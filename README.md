@@ -62,5 +62,9 @@ To deploy locally or on a testnet:
 
 ## 💖 Support or Donate
 
-If you'd like to support the project or send a test donation, use this address:0x5657faef98178b721016bf3d3ac4be6fdccbc1bc
+If you'd like to support the project or send a test donation,
+use this address:0x5657faef98178b721016bf3d3ac4be6fdccbc1bc
+
+![Screenshot 2025-05-26 143625](https://github.com/user-attachments/assets/d750cc49-8ef3-4b8a-8332-328ebbb86a40)
+
 
